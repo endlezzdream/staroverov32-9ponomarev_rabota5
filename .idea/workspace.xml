@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0a05b89-ff2c-4803-8f17-55057308a03d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weathers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/androidTest/java/com/example/pols5/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/androidTest/java/com/example/weathers/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/main/java/com/example/pols5/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/main/java/com/example/weathers/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/main/java/com/example/pols5/about.java" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/main/java/com/example/weathers/about.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/main/java/com/example/pols5/contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/main/java/com/example/weathers/contacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/main/res/layout/activity_contacts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/main/res/layout/activity_contacts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/app/src/test/java/com/example/pols5/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/app/src/test/java/com/example/weathers/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathers/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/weathers/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/weathers" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2pCJwuFp8TxjXdbjIXf8vowa5rG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/cybersport.26KADR.000/Downloads/staroverov/5"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a05b89-ff2c-4803-8f17-55057308a03d" name="Changes" comment="" />
+      <created>1732264365752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732264365752</updated>
+    </task>
+    <servers />
+  </component>
+</project>
